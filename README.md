@@ -1,6 +1,6 @@
 [README.md](https://github.com/Prateek07-Kumar/GCP-End-to-End-Healthcare-Data-Engineer-Project/edit/main/README.md)
 
-# 🏥 Real-Time Healthcare Data Pipeline (GCP | Apache Beam | Medallion Architecture)
+# Real-Time Healthcare Data Pipeline (GCP | Apache Beam | Medallion Architecture)
 
 ## 📌 Project Overview
 This project implements a **real-time healthcare data processing pipeline** using **Google Cloud Platform (GCP)** and **Apache Beam (Dataflow)**. It simulates patient vitals streaming data, processes it through a **Medallion Architecture (Bronze → Silver → Gold)**, and delivers **aggregated insights for monitoring patient health risks**.
