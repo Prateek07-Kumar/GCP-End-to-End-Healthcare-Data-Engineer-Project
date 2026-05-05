@@ -15,7 +15,7 @@ The system is designed to handle **streaming healthcare data**, ensuring **data 
 - Perform **risk scoring and classification**
 - Implement **Medallion Architecture (Bronze, Silver, Gold layers)**
 - Store processed data for **analytics and reporting (BigQuery)**
-
+  
 ---
 
 ## 🏗️ Architecture Overview
