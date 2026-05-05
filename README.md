@@ -213,7 +213,7 @@ The pipeline uses environment variables for flexibility:
 - Applying **Medallion Architecture in real-time systems**
 - Building **fault-tolerant pipelines**
 - Integrating multiple GCP services effectively
-
+  
 ---
 
 ## 🔮 Future Enhancements
