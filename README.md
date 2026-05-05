@@ -193,7 +193,7 @@ The pipeline uses environment variables for flexibility:
 - `TEMP_LOCATION`
 - `STAGING_LOCATION`
 - `REGION`
-
+  
 ---
 
 ## 🚀 Use Cases
