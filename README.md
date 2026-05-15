@@ -9,7 +9,7 @@ The system is designed to handle **streaming healthcare data**, ensuring **data 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a **real-time streaming pipeline** for healthcare vitals data
 - Apply **data validation and cleansing**
 - Perform **risk scoring and classification**
@@ -18,7 +18,7 @@ The system is designed to handle **streaming healthcare data**, ensuring **data 
   
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 Patient Simulator → Pub/Sub → Dataflow (Apache Beam)
