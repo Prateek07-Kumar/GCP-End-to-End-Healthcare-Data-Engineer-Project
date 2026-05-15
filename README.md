@@ -32,7 +32,7 @@ Patient Simulator → Pub/Sub → Dataflow (Apache Beam)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **Streaming:** Pub/Sub
 - **Processing Engine:** Apache Beam (Dataflow)
