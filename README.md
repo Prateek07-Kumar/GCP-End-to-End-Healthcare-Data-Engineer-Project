@@ -44,7 +44,7 @@ Patient Simulator → Pub/Sub → Dataflow (Apache Beam)
 
 ---
 
-## 🔄 Data Pipeline Flow
+## Data Pipeline Flow
 
 ### 1️⃣ Data Generation (Simulator)
 A custom simulator generates real-time patient vitals and streams them into Pub/Sub.
